@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "ff8924fcc03c9130",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c84b7ba1476f8b6c",
+            "id": "1bffcfbef48451fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +195,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "331651d35876ca41",
+  "active": "1bffcfbef48451fe",
   "lastOpenFiles": [
+    "sasadfsafd.md",
     "Welcome.md"
   ]
 }
