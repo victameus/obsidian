@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sasadfsafd.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sasadfsafd"
+              "title": "Welcome"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sasadfsafd.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sasadfsafd"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sasadfsafd.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sasadfsafd"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sasadfsafd.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sasadfsafd"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -201,7 +201,7 @@
   },
   "active": "1bffcfbef48451fe",
   "lastOpenFiles": [
-    "Welcome.md",
-    "sasadfsafd.md"
+    "sasadfsafd.md",
+    "Welcome.md"
   ]
 }
