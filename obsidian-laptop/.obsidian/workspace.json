@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA/Ideas.md",
+                "file": "문부성/연구계획서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "연구계획서"
             }
           }
         ],
@@ -199,10 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ff27a0d7fcdb80",
+  "active": "78e29ede737f6c72",
   "lastOpenFiles": [
-    "Future/Plan/수강신청.md",
     "FPGA/Ideas.md",
+    "문부성/연구계획서.md",
+    "문부성",
+    "Future/Portfolio/자기소개서.md",
+    "Future/Portfolio/산업별.md",
+    "Future/Plan/수강신청.md",
     "Future/Portfolio",
     "Future/Plan",
     "Untitled.md",
