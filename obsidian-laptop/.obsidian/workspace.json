@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/겨울방학.md",
+                "file": "Future/Plan/겨울방학.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/수강신청.md",
+                "file": "Future/Plan/수강신청.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,10 +201,12 @@
   },
   "active": "78e29ede737f6c72",
   "lastOpenFiles": [
+    "Future/Portfolio",
+    "Future/Plan",
     "Untitled.md",
     "FPGA",
-    "Future/수강신청.md",
-    "Future/겨울방학.md",
+    "Future/Plan/수강신청.md",
+    "Future/Plan/겨울방학.md",
     "Pomostack/Untitled.md",
     "SDPL/TSGT.md",
     "Pomostack",
