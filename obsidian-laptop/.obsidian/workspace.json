@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Plan/수강신청.md",
+                "file": "FPGA/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수강신청"
+              "title": "Ideas"
             }
           }
         ],
@@ -199,13 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78e29ede737f6c72",
+  "active": "92ff27a0d7fcdb80",
   "lastOpenFiles": [
+    "Future/Plan/수강신청.md",
+    "FPGA/Ideas.md",
     "Future/Portfolio",
     "Future/Plan",
     "Untitled.md",
     "FPGA",
-    "Future/Plan/수강신청.md",
     "Future/Plan/겨울방학.md",
     "Pomostack/Untitled.md",
     "SDPL/TSGT.md",
