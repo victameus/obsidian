@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Plan/수강신청.md",
+                "file": "SDPL/TSGT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수강신청"
+              "title": "TSGT"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "92ff27a0d7fcdb80",
   "lastOpenFiles": [
+    "Future/Plan/수강신청.md",
     "Future/Plan/겨울방학.md",
     "문부성/연구계획서.md",
     "Diary/2026-01-31.md",
@@ -209,7 +210,6 @@
     "문부성",
     "Future/Portfolio/자기소개서.md",
     "Future/Portfolio/산업별.md",
-    "Future/Plan/수강신청.md",
     "Future/Portfolio",
     "Future/Plan",
     "Untitled.md",
