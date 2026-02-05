@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Portfolio/스펙.md",
+                "file": "Future/Plan/수강신청.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스펙"
+              "title": "수강신청"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "92ff27a0d7fcdb80",
   "lastOpenFiles": [
-    "Future/Portfolio/산업별.md",
     "Future/Portfolio/스펙.md",
+    "Future/Portfolio/산업별.md",
     "문부성/연구계획서.md",
     "Diary/2026-01-31.md",
     "FPGA/Ideas.md",
