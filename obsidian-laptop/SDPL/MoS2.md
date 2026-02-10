@@ -3,3 +3,4 @@ Main idea: low wavelength -> higher energy -> electron trapped in defect with hi
 Effect 
 1. EPSC -> faster decay time
 2. PPF -> faster decay
+=75.05/62.702
