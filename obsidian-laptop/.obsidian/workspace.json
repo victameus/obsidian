@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Plan/수강신청.md",
+                "file": "문부성/연구실.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수강신청"
+              "title": "연구실"
             }
           }
         ],
@@ -201,13 +201,14 @@
   },
   "active": "92ff27a0d7fcdb80",
   "lastOpenFiles": [
+    "Future/Plan/수강신청.md",
+    "문부성/연구실.md",
     "SDPL/MoS2.md",
     "SDPL/교수님 feedback.md",
     "SDPL/TSGT.md",
     "Pomostack/Untitled.md",
     "문부성/연구계획서.md",
     "FPGA/Ideas.md",
-    "Future/Plan/수강신청.md",
     "Untitled",
     "Untitled.md",
     "Future/Portfolio/스펙.md",
