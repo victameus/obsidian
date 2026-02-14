@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/MoS2.md",
+                "file": "Future/Plan/수강신청.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoS2"
+              "title": "수강신청"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "92ff27a0d7fcdb80",
   "lastOpenFiles": [
-    "SDPL/교수님 feedback.md",
     "SDPL/MoS2.md",
+    "SDPL/교수님 feedback.md",
     "SDPL/TSGT.md",
     "Pomostack/Untitled.md",
     "문부성/연구계획서.md",
