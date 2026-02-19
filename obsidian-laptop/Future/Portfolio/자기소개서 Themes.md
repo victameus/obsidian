@@ -7,7 +7,9 @@
 - 서울대 Silvaco 어닐링 확산 Arsenic / RCAT
 	Arsenic or Boron
 	Ion implantation dose, energy 
--  
+-  공정 실습
+-  소자 제작 중 공정 조건 최적화
+
 
 Chip maker
 
