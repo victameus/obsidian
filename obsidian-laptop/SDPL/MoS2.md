@@ -18,8 +18,8 @@ Blue   - [ ] 17 [ ] 20 [ ] 23
 계획 
 2/19 - Red 
 2/20 - Green, Blue
-2/21 - output/ tranfer, PD
-2/22 - PPF retry
+2/21 - output/ tranfer
+2/22 - PD 맛보기
 
 - Code 조건
 -START_POINT_FOR_TRAIN = 5 
