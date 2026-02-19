@@ -10,3 +10,12 @@ Effect
 오늘 측정할거
 I-V Characteristics
 EPSC - 17, 20 , 23
+
+- Code 조건
+-START_POINT_FOR_TRAIN = 5 
+
+TRAIN_SET_SIZE = 100# 
+
+TEST_SET_SIZE = 30#
+
+CURRENT_NORMALIZATION_FACTOR = 1E7
