@@ -7,9 +7,19 @@ Effect
 
 
 
-오늘 측정할거
 I-V Characteristics
-EPSC - 17, 20 , 23
+[ ] Dark            [ ] Green
+[ ] Red             [ ] Blue
+EPSC  25min wait : 5V500ms, 8V500ms, 10V500ms, 8V250ms, 8V750ms, 8V1000ms
+-> 한 Vg에 1시간 30분 소요
+Red -    [ ] 17 [ ] 20 [ ] 23 
+Green - [ ] 17 [ ] 20 [ ] 23 
+Blue   - [ ] 17 [ ] 20 [ ] 23 
+계획 
+2/19 - Red 
+2/20 - Green, Blue
+2/21 - output/ tranfer, PD
+2/22 - PPF retry
 
 - Code 조건
 -START_POINT_FOR_TRAIN = 5 
