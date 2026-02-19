@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Portfolio/역대 자소서/PSK.md",
+                "file": "Future/Portfolio/자기소개서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSK"
+              "title": "자기소개서"
             }
           }
         ]
@@ -186,7 +186,9 @@
   },
   "active": "2efb8bd2d1e9be48",
   "lastOpenFiles": [
+    "Future/Portfolio/산업별.md",
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
+    "Future/Portfolio/역대 자소서/PSK.md",
     "Future/Portfolio/자기소개서.md",
     "Future/Portfolio/스펙.md",
     "SDPL/MoS2.md",
@@ -197,8 +199,6 @@
     "SDPL/My research",
     "문부성/연구계획서.md",
     "문부성/연구실.md",
-    "Future/Portfolio/역대 자소서/PSK.md",
-    "Future/Portfolio/산업별.md",
     "문부성/서류.md",
     "Future/Portfolio/역대 자소서",
     "SDPL/교수님 feedback.md",
