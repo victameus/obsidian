@@ -11,14 +11,14 @@ I-V Characteristics
 [ ] Dark            [ ] Green
 [ ] Red             [ ] Blue
 EPSC  25min wait : 5V500ms, 8V500ms, 10V500ms, 8V250ms, 8V750ms, 8V1000ms
--> 한 Vg에 1시간 30분 소요
+-> 한 Vg에 150분 : 2시간 30분 소요
 Red -    [ ] 17 [ ] 20 [ ] 23 
 Green - [ ] 17 [ ] 20 [ ] 23 
 Blue   - [ ] 17 [ ] 20 [ ] 23 
 계획 
-2/19 - Red 
-2/20 - Green, Blue
-2/21 - output/ tranfer
+2/19 - Red 17
+2/20 - Red, Green 
+2/21 - Blue, output/ tranfer
 2/22 - PD 맛보기
 
 - Code 조건
