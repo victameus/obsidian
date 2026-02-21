@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/MoS2.md",
+                "file": "SDPL/My research/Insights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoS2"
+              "title": "Insights"
             }
           }
         ]
@@ -186,13 +186,15 @@
   },
   "active": "2efb8bd2d1e9be48",
   "lastOpenFiles": [
+    "SDPL/My research/TSGT.md",
+    "SDPL/My research/Insights.md",
+    "SDPL/My research/소자구조.md",
+    "SDPL/교수님 feedback.md",
+    "SDPL/MoS2.md",
     "FPGA/AIX2026.md",
     "FPGA/Ideas.md",
-    "SDPL/MoS2.md",
     "Future/Portfolio/스펙.md",
     "Future/Portfolio/자기소개서 Themes.md",
-    "SDPL/My research/TSGT.md",
-    "SDPL/My research/소자구조.md",
     "Future/Portfolio/역대 자소서/PSK.md",
     "Future/Portfolio/산업별.md",
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
@@ -203,7 +205,6 @@
     "문부성/연구실.md",
     "문부성/서류.md",
     "Future/Portfolio/역대 자소서",
-    "SDPL/교수님 feedback.md",
     "Pomostack/Untitled.md",
     "Diary/2026-01-31.md",
     "Untitled",
