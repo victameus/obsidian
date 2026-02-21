@@ -9,8 +9,9 @@
 	Ion implantation dose, energy 
 -  공정 실습
 -  소자 제작 중 공정 조건 최적화
-    Annealing 시간으로 decay 조절[
-    IGZO Al2O3 
+    Annealing 시간으로 decay 조절
+    IGZO Al2O3 오염
+    
 
 
 Chip maker
