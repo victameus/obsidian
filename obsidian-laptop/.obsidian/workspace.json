@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Plan/수강신청.md",
+                "file": "SDPL/MoS2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수강신청"
+              "title": "MoS2"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "2efb8bd2d1e9be48",
   "lastOpenFiles": [
+    "Future/Plan/수강신청.md",
     "SDPL/My research/Insights.md",
     "SDPL/My research/TSGT.md",
     "SDPL/My research/소자구조.md",
@@ -199,7 +200,6 @@
     "Future/Portfolio/산업별.md",
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
     "Future/Plan/겨울방학.md",
-    "Future/Plan/수강신청.md",
     "SDPL/My research",
     "문부성/연구계획서.md",
     "문부성/연구실.md",

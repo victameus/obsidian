@@ -29,3 +29,6 @@ TRAIN_SET_SIZE = 100#
 TEST_SET_SIZE = 30#
 
 CURRENT_NORMALIZATION_FACTOR = 1E7
+
+Normalize 
+일단 max값으로 나누고 복붙하고 옮겨서 끝에 하나 추가 후 0,1로 normalize
