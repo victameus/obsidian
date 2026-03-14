@@ -1,6 +1,7 @@
 아이템
 
-장비사
+
+공정, 소자
 - 장비 트러블슈팅 
 - Al2O3 터널링 레이어 최적화
 	why 2.5 nm? 시행착오, 판단과정
@@ -9,12 +10,11 @@
 	Ion implantation dose, energy 
 -  공정 실습
 -  소자 제작 중 공정 조건 최적화
-    Annealing 시간으로 decay 조절
+    Annealing 시간, 온도로 decay 조절
     IGZO Al2O3 오염
-    
 
 
-Chip maker
+회로, 소프트웨어
+- Virtuoso ALU, 16X16 Register File 설계
+- SNNtorch으로 N-Mnist 데이터셋 학습
 
-
-방산

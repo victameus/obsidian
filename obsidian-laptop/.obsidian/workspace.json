@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future/Portfolio/TOEFL.md",
+                "file": "Future/Portfolio/자기소개서 Themes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOEFL"
+              "title": "자기소개서 Themes"
             }
           }
         ],
@@ -201,20 +201,21 @@
   },
   "active": "8ac0c3ac6177207a",
   "lastOpenFiles": [
+    "Future/Portfolio/스펙.md",
+    "Future/Plan/수강신청.md",
+    "Pomostack/Untitled.md",
+    "Future/Portfolio/산업별.md",
+    "Future/Portfolio/자기소개서 Themes.md",
+    "Future/Portfolio/TOEFL.md",
     "SDPL/MoS2.md",
     "SDPL/My research/Insights.md",
     "SDPL/교수님 feedback.md",
-    "Future/Portfolio/TOEFL.md",
     "SDPL/My research/TSGT.md",
     "SDPL/My research/소자구조.md",
     "Untitled.md",
-    "Future/Plan/수강신청.md",
     "FPGA/AIX2026.md",
     "FPGA/Ideas.md",
-    "Future/Portfolio/스펙.md",
-    "Future/Portfolio/자기소개서 Themes.md",
     "Future/Portfolio/역대 자소서/PSK.md",
-    "Future/Portfolio/산업별.md",
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
     "Future/Plan/겨울방학.md",
     "SDPL/My research",
@@ -222,7 +223,6 @@
     "문부성/연구실.md",
     "문부성/서류.md",
     "Future/Portfolio/역대 자소서",
-    "Pomostack/Untitled.md",
     "Diary/2026-01-31.md",
     "Untitled",
     "Diary",
