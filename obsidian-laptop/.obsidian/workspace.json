@@ -11,10 +11,14 @@
             "id": "1c277aa8f727ac9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SDPL/My research/TSGT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "TSGT"
             }
           }
         ]
@@ -193,27 +197,27 @@
   "active": "1c277aa8f727ac9f",
   "lastOpenFiles": [
     "SDPL/MoS2.md",
-    "Future/Portfolio/스펙.md",
+    "SDPL/My research/TSGT.md",
+    "SDPL/교수님 feedback.md",
+    "SDPL/My research/Insights.md",
+    "SDPL/My research/소자구조.md",
+    "Pomostack/Untitled.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
     "Future/Portfolio/경험정리.md",
+    "Future/Portfolio/스펙.md",
     "conflict-files-obsidian-git.md",
     "Future/Portfolio/서울대 SNN.md",
     "Future/Portfolio/자기소개서 Themes.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "Future/Portfolio/역대 자소서/삼성.md",
     "Future/Plan/수강신청.md",
-    "Pomostack/Untitled.md",
     "Future/Portfolio/산업별.md",
     "Future/Portfolio/TOEFL.md",
-    "SDPL/My research/Insights.md",
-    "SDPL/교수님 feedback.md",
-    "SDPL/My research/TSGT.md",
-    "SDPL/My research/소자구조.md",
     "Untitled.md",
     "FPGA/AIX2026.md",
     "FPGA/Ideas.md",
     "Future/Portfolio/역대 자소서/PSK.md",
-    "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
     "Future/Plan/겨울방학.md",
     "SDPL/My research",
     "문부성/연구계획서.md",
@@ -226,7 +230,6 @@
     "문부성",
     "Future/Portfolio",
     "Future/Plan",
-    "FPGA",
-    "sasadfsafd.md"
+    "FPGA"
   ]
 }
