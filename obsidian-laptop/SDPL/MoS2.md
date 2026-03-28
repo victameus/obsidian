@@ -5,7 +5,8 @@ Main idea: low wavelength -> higher energy -> electron trapped in defect with hi
 	in few-layer MoS2 - defect 위치 분석
 	
 
-
+- decay mechanism
+-
 
 
 - Code 조건
