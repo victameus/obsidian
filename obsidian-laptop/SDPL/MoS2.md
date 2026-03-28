@@ -1,5 +1,9 @@
 Main idea: low wavelength -> higher energy -> electron trapped in defect with higher energy -> takes long to decay.
 
+- 참고논문
+	Deep level transient spectroscopy and theoretical modelling of defect states
+	in few-layer MoS2 - defect 위치 분석
+	
 
 
 
