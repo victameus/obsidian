@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/My research/TSGT.md",
+                "file": "Future/Portfolio/경험정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TSGT"
+              "title": "경험정리"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1c277aa8f727ac9f",
   "lastOpenFiles": [
-    "SDPL/MoS2.md",
     "SDPL/My research/TSGT.md",
+    "SDPL/MoS2.md",
     "SDPL/교수님 feedback.md",
     "SDPL/My research/Insights.md",
     "SDPL/My research/소자구조.md",
