@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,10 @@
   },
   "active": "1c277aa8f727ac9f",
   "lastOpenFiles": [
+    "문부성/연구계획서.md",
+    "문부성/연구실.md",
+    "문부성/서류.md",
+    "Future/Portfolio/경험정리.md",
     "SDPL/My research/TSGT.md",
     "SDPL/MoS2.md",
     "SDPL/교수님 feedback.md",
@@ -205,7 +210,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
-    "Future/Portfolio/경험정리.md",
     "Future/Portfolio/스펙.md",
     "conflict-files-obsidian-git.md",
     "Future/Portfolio/서울대 SNN.md",
@@ -220,9 +224,6 @@
     "Future/Portfolio/역대 자소서/PSK.md",
     "Future/Plan/겨울방학.md",
     "SDPL/My research",
-    "문부성/연구계획서.md",
-    "문부성/연구실.md",
-    "문부성/서류.md",
     "Future/Portfolio/역대 자소서",
     "Diary/2026-01-31.md",
     "Untitled",
