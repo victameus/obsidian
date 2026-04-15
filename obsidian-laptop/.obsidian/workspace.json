@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/MoS2.md",
+                "file": "doodles/doodles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoS2"
+              "title": "doodles"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "1c277aa8f727ac9f",
   "lastOpenFiles": [
+    "무제.md",
+    "doodles/doodles.md",
+    "SDPL/MoS2.md",
+    "doodles",
+    "doodles",
     "SDPL/My research/TSGT.md",
     "SDPL/My research/Insights.md",
     "SDPL/My research/소자구조.md",
@@ -210,7 +215,6 @@
     "문부성/연구계획서.md",
     "문부성/서류.md",
     "Pomostack/Untitled.md",
-    "SDPL/MoS2.md",
     "SDPL/교수님 feedback.md",
     "Untitled.base",
     "Untitled 1.base",
@@ -223,15 +227,11 @@
     "Untitled.md",
     "FPGA/AIX2026.md",
     "FPGA/Ideas.md",
-    "Future/Portfolio/역대 자소서/PSK.md",
-    "Future/Plan/겨울방학.md",
     "SDPL/My research",
     "Future/Portfolio/역대 자소서",
     "Untitled",
     "Diary",
     "문부성",
-    "Future/Portfolio",
-    "Future/Plan",
-    "FPGA"
+    "Future/Portfolio"
   ]
 }
