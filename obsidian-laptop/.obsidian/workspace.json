@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "doodles"
             }
+          },
+          {
+            "id": "49d86e91800f091c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c277aa8f727ac9f",
+  "active": "49d86e91800f091c",
   "lastOpenFiles": [
+    "Pomostack/Focus on the currrent task.md",
     "무제.md",
     "doodles/doodles.md",
     "SDPL/MoS2.md",
@@ -226,7 +240,6 @@
     "Future/Portfolio/TOEFL.md",
     "Untitled.md",
     "FPGA/AIX2026.md",
-    "FPGA/Ideas.md",
     "SDPL/My research",
     "Future/Portfolio/역대 자소서",
     "Untitled",
