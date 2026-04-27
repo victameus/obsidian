@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doodles/Spotfire.md",
+                "file": "doodles/doodles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spotfire"
+              "title": "doodles"
             }
           }
         ],
@@ -226,13 +226,13 @@
   },
   "active": "d7738b8bf29c610b",
   "lastOpenFiles": [
+    "doodles/Spotfire.md",
     "doodles/doodles.md",
     "SDPL/My research/소자구조.md",
     "문부성/연구계획서.md",
     "문부성/연구실.md",
     "문부성/일정.md",
     "무제.md",
-    "doodles/Spotfire.md",
     "Pomostack/Focus on the currrent task.md",
     "Future/Portfolio/스펙.md",
     "Future/Portfolio/산업별.md",
