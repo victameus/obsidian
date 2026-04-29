@@ -36,6 +36,5 @@
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
   "showTimeTracker": false,
-  "showActiveClocks": false,
-  "rawIcals": []
+  "showActiveClocks": false
 }
