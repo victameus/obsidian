@@ -11,3 +11,5 @@
     blue    target=1.42      best tau=0.2933  diff=-1.127  file=blue 80C 30V(1).dat  (V=30V, pulse=1)
     green   target=0.113     best tau=0.09063  diff=-0.02237  file=green 80C 30V(6).dat  (V=30V, pulse=6)
     red     target=0.0418    best tau=0.06888  diff=+0.02708  file=red 80C 30V(7).dat  (V=30V, pulse=7)
+    
+반집공 semi346
