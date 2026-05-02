@@ -13,3 +13,5 @@
     red     target=0.0418    best tau=0.06888  diff=+0.02708  file=red 80C 30V(7).dat  (V=30V, pulse=7)
     
 반집공 semi346r
+
+LDD_Dose -> 
