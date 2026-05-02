@@ -15,3 +15,24 @@
 반집공 semi346r
 
 LDD_Dose -> 
+  ══════════════════════════════════════════════════════════════
+    BEST PARAMETER COMBINATIONS
+  ══════════════════════════════════════════════════════════════
+
+    [SS (mV/dec)]  min  →  85.314
+      SD_Energy      = 7
+      LDD_Energy     = 5
+      SD_Dose        = 5e+17
+      LDD_Dose       = 5e+11
+
+    [On/Off Ratio]  max  →  15.809
+      SD_Energy      = 7
+      LDD_Energy     = 7
+      SD_Dose        = 5e+17
+      LDD_Dose       = 1e+13
+
+    [Vt (V)]  min (most negative)  →  -0.827
+      SD_Energy      = 5
+      LDD_Energy     = 5
+      SD_Dose        = 5e+15
+      LDD_Dose       = 5e+11
