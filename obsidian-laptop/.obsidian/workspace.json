@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doodles/doodles.md",
+                "file": "doodles/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doodles"
+              "title": "무제"
+            }
+          },
+          {
+            "id": "3fc0070274ae984d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/반집공.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "반집공"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,27 +238,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7738b8bf29c610b",
+  "active": "3fc0070274ae984d",
   "lastOpenFiles": [
+    "doodles/무제.md",
+    "School/반집공.md",
+    "School",
+    "doodles/doodles.md",
+    "무제.md",
+    "SDPL/MoS2.md",
+    "SDPL/My research/TSGT.md",
+    "SDPL/My research/Insights.md",
+    "SDPL/My research/소자구조.md",
     "Diary/2026-04-30.md",
     "doodles/Spotfire.md",
-    "doodles/doodles.md",
-    "SDPL/My research/소자구조.md",
     "문부성/연구계획서.md",
     "문부성/연구실.md",
     "문부성/일정.md",
-    "무제.md",
     "Pomostack/Focus on the currrent task.md",
     "Future/Portfolio/스펙.md",
     "Future/Portfolio/산업별.md",
     "Future/Portfolio/경험정리.md",
     "Future/Portfolio/면접.md",
     "문부성/서류.md",
-    "SDPL/MoS2.md",
     "doodles",
     "doodles",
-    "SDPL/My research/TSGT.md",
-    "SDPL/My research/Insights.md",
     "Future/Portfolio/서울대 SNN.md",
     "Diary/2026-01-31.md",
     "Pomostack/Untitled.md",
@@ -254,13 +271,10 @@
     "Future/Portfolio/역대 자소서/좋은 Applied Materials 자소서.md",
     "conflict-files-obsidian-git.md",
     "Future/Portfolio/자기소개서 Themes.md",
-    "Future/Portfolio/역대 자소서/삼성.md",
-    "Future/Plan/수강신청.md",
     "SDPL/My research",
     "Future/Portfolio/역대 자소서",
     "Untitled",
     "Diary",
-    "문부성",
-    "Future/Portfolio"
+    "문부성"
   ]
 }
