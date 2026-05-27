@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/디시설 프로젝트.md",
+                "file": "School/리소그라피.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디시설 프로젝트"
+              "title": "리소그라피"
             }
           }
         ],
@@ -268,8 +268,9 @@
   },
   "active": "e4819bbd09d8b237",
   "lastOpenFiles": [
-    "무제.md",
     "School/디시설 프로젝트.md",
+    "School/리소그라피.md",
+    "무제.md",
     "School/반집공.md",
     "School/SNN.md",
     "SDPL/My research/소자구조.md",
@@ -296,7 +297,6 @@
     "Future/Portfolio/서울대 SNN.md",
     "Diary/2026-01-31.md",
     "Pomostack/Untitled.md",
-    "SDPL/교수님 feedback.md",
     "Untitled.base",
     "Untitled 1.base",
     "SDPL/My research",
