@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/리소그라피.md",
+                "file": "School/반집공.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리소그라피"
+              "title": "반집공"
             }
           }
         ],
@@ -268,12 +268,12 @@
   },
   "active": "e4819bbd09d8b237",
   "lastOpenFiles": [
-    "School/SNN.md",
-    "School/디시설 프로젝트.md",
     "School/리소그라피.md",
+    "School/디시설 프로젝트.md",
+    "School/SNN.md",
     "School/반집공.md",
-    "doodles/무제.md",
     "doodles/Spotfire.md",
+    "doodles/무제.md",
     "무제.md",
     "SDPL/My research/소자구조.md",
     "SDPL/MoS2.md",
