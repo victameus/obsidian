@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/Mos2/Revision Checklist.md",
+                "file": "School/SNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revision Checklist"
+              "title": "SNN"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "c56bb24d5170a42f",
   "lastOpenFiles": [
-    "SDPL/Mos2/리비전 이메일.md",
+    "SDPL/Mos2/다중피팅.md",
     "SDPL/Mos2/Revision Checklist.md",
+    "SDPL/Mos2/리비전 이메일.md",
     "문부성/서류.md",
     "문부성/설명회.md",
     "SDPL/Mos2",
@@ -224,7 +225,6 @@
     "Pomostack/Focus on the currrent task.md",
     "Future/Portfolio/스펙.md",
     "Future/Portfolio/산업별.md",
-    "Future/Portfolio/경험정리.md",
     "doodles",
     "doodles",
     "Untitled.base",
