@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDPL/Mos2/리비전 이메일.md",
+                "file": "SDPL/Mos2/Revision Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리비전 이메일"
+              "title": "Revision Checklist"
             }
           }
         ]
@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78e29ede737f6c72",
+  "active": "c56bb24d5170a42f",
   "lastOpenFiles": [
+    "SDPL/Mos2/리비전 이메일.md",
     "SDPL/Mos2/Revision Checklist.md",
     "SDPL/Mos2/다중피팅.md",
     "SDPL/Mos2/라만.md",
-    "SDPL/Mos2/리비전 이메일.md",
     "School/SNN.md",
     "문부성/서류.md",
     "문부성/설명회.md",
