@@ -49,7 +49,7 @@
 
 ## 1. 구조·재료 분석 (R1-1, R2-3) — *전기측정 전에 먼저*
 
-- [ ] **AFM 두께** (D2–D5 전부) → few-layer 정량화, 소자 간 두께 일관성
+- [x] **AFM 두께** (D2–D5 전부) → few-layer 정량화, 소자 간 두께 일관성
 
 - [x] **Raman** (A₁g–E¹₂g 피크 간격) → 층수·결정성, 소자 간 일관성
 
@@ -61,9 +61,9 @@
 
 ## 2. 기본 전기 특성 (스크리닝)
 
-- [ ] Output (I_DS–V_DS), dark
+- [x] Output (I_DS–V_DS), dark
 
-- [ ] Transfer (I_DS–V_GS), dark → 추출: **on/off, V_th, SS, μ, hysteresis**
+- [x] Transfer (I_DS–V_GS), dark → 추출: **on/off, V_th, SS, μ, hysteresis**
 
 - [ ] 불량/이상 소자 스크리닝 → 통계용 valid n 확정
 
