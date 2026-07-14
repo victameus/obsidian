@@ -174,7 +174,7 @@
 
 ## 🔴 TIER 1 — 반드시 (R1·R2 최소 대응)
 
-- [ ] **PL 스펙트럼** (R1-1) — Raman과 같은 장비 세션이면 반나절. "Raman/PL" 요구 마무리.
+- [x] **PL 스펙트럼** (R1-1) — Raman과 같은 장비 세션이면 반나절. "Raman/PL" 요구 마무리.
 
 - [ ] **다소자 transfer/output (dark)** — D1 + 신규 2개 = **최소 3소자** (R1-1 재현성). 추출: SS, V_th, μ, on/off. → mean±std 표.
 
