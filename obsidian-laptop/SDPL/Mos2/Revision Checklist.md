@@ -18,7 +18,13 @@ m445f3-green
 1번 우,상 - 가능성
 
 
+START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
 
+TRAIN_SET_SIZE = 100# Total number of points (train + test)
+
+TEST_SET_SIZE = 30
+
+CURRENT_NORMALIZATION_FACTOR = 1E7
 
 **소자**: D1 (기존) + D2–D5 (신규 4개) = 총 5개
 
