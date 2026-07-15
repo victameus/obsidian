@@ -13,7 +13,9 @@
      좌, 하  -24 정도
 
 
-ㅇㅇ
+4번 좌,하 - EPSC Blue, PPF Blue (new)   EPSC all(old)
+3번 좌,상 - narma all, EPSC all(old)
+
 
 
 
