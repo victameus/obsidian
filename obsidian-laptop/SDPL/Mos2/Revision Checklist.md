@@ -12,9 +12,9 @@
  4번 우, 상 -18 정도 그러나 애매  (좌측상단 speck)
      좌, 하  -24 정도
 
-
+m445f3-green
 4번 좌,하 - EPSC Blue, PPF Blue (new)   EPSC all(old)
-3번 좌,상 - narma all, EPSC all(old) , output/transfer under light
+3번 좌,상 - narma all, EPSC all(old) , output/transfer under light 
 1번 우,상 - 가능성
 
 
