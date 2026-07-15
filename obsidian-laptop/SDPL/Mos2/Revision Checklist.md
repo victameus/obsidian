@@ -15,8 +15,7 @@
 
 4번 좌,하 - EPSC Blue, PPF Blue (new)   EPSC all(old)
 3번 좌,상 - narma all, EPSC all(old)
-
-
+1번 우,상 - 가능성
 
 
 
