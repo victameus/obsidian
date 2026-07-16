@@ -17,6 +17,8 @@ m445f3-green
 3번 좌,상 - narma all, EPSC all(old) , output/transfer under light 
 1번 우,상 - 가능성
 
+EPSC 측정 대푯값 (500mA, )
+
 - [ ]  output / transfer 4번 green, red output transfer 측정
 - [ ]  EPSC 정규화 -> 파장별, device별 figure -오늘  
 - [ ]  EPSC 3번 new에서 재측정, 전압 낮춰서 
