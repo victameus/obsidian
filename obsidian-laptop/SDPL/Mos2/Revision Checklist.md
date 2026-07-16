@@ -23,6 +23,7 @@ m445f3-green
 - [ ] NARMA retry (4번 먼저하는게 나을듯)
 - [ ]  EPSC 삼중피팅
 - [ ] heat analysis 3번, 4번 -일요일
+- [ ] AFM, 현미경 피규어
 -START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
 
 TRAIN_SET_SIZE = 100# Total number of points (train + test)
