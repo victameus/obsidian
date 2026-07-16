@@ -18,7 +18,11 @@ m445f3-green
 1번 우,상 - 가능성
 
 
-START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
+- [ ]  EPSC 정규화 -> 파장별, device별 figure
+- [ ] PPF 재측정 (4번, blue green more relaxation time) , 3번도
+- [ ] 
+
+-START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
 
 TRAIN_SET_SIZE = 100# Total number of points (train + test)
 
@@ -44,7 +48,7 @@ CURRENT_NORMALIZATION_FACTOR = 1E7
 
 ## 0. 사전 준비 · 일관성
 
-- [ ] 소자 로그 시트 작성 (D2–D5: flake 위치, 채널 L/W, 측정일, 비고)
+- [x] 소자 로그 시트 작성 (D2–D5: flake 위치, 채널 L/W, 측정일, 비고)
 
 - [ ] 채널 L/W 광학현미경 기록 → 기존 ~9 µm와 비교
 
@@ -56,7 +60,7 @@ CURRENT_NORMALIZATION_FACTOR = 1E7
 
 ## 1. 구조·재료 분석 (R1-1, R2-3) — *전기측정 전에 먼저*
 
-- [x] **AFM 두께** (D2–D5 전부) → few-layer 정량화, 소자 간 두께 일관성
+- [ ] **AFM 두께** (D2–D5 전부) → few-layer 정량화, 소자 간 두께 일관성
 
 - [x] **Raman** (A₁g–E¹₂g 피크 간격) → 층수·결정성, 소자 간 일관성
 
