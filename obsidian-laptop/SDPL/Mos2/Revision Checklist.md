@@ -18,10 +18,11 @@ m445f3-green
 1번 우,상 - 가능성
 
 
-- [ ]  EPSC 정규화 -> 파장별, device별 figure
-- [ ] PPF 재측정 (4번, blue green more relaxation time) , 3번도
-- [ ] 
-
+- [ ]  EPSC 정규화 -> 파장별, device별 figure -오늘 
+- [ ]  PPF 재측정 (4번, blue green more relaxation time) , 3번도
+- [ ] NARMA retry (4번 먼저하는게 나을듯)
+- [ ]  EPSC 삼중피팅
+- [ ] heat analysis 3번, 4번 -일요일
 -START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
 
 TRAIN_SET_SIZE = 100# Total number of points (train + test)
