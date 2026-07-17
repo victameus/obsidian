@@ -28,7 +28,7 @@ EPSC 측정 대푯값 (500mA, 500ms) 3번 -> 전압 낮춰서 4번 -> 좀 천천
 - [ ]  EPSC 삼중피팅, figure, 기준 연구와의 비교
 - [ ] heat analysis 3번, 4번 -일요일
 - [ ] AFM figure
-- [ ] 
+- [ ] narma combination, train/test 조합, regression 조합
 
 -START_POINT_FOR_TRAIN = 5 # the step # from which the learning will begin
 
