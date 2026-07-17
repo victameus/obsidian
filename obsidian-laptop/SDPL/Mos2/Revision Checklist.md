@@ -22,7 +22,7 @@ EPSC 측정 대푯값 (500mA, 500ms) 3번 -> 전압 낮춰서 4번 -> 좀 천천
  
 - [ ]  output / transfer 4번 green, red output transfer 측정
 - [ ]  EPSC 정규화 -> 파장별, device별 figure 
-- [ ]  EPSC 3번 new에서 재측정, 전압 낮춰서 
+- [x]  EPSC 3번 new에서 재측정, 전압 낮춰서 
 - [ ]  PPF 재측정 (4번, blue green more relaxation time) , 3번도
 - [ ]  NARMA retry (4번 먼저하는게 나을듯)
 - [ ]  EPSC 삼중피팅
