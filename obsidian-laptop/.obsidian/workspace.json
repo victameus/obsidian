@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doodles/본체 판다면.md",
+                "file": "Future/Portfolio/스펙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "본체 판다면"
+              "title": "스펙"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "c56bb24d5170a42f",
   "lastOpenFiles": [
+    "doodles/본체 판다면.md",
     "Future/Portfolio/스펙.md",
     "doodles/Mobile test.md",
     "SDPL/Mos2/리비전 이메일.md",
@@ -225,7 +226,6 @@
     "School/반공이.md",
     "Diary/ideas.md",
     "School/임베디드.md",
-    "School/반집공.md",
     "School",
     "doodles",
     "doodles",
